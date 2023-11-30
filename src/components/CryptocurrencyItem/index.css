@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+
+.listEachItemBg {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.coinTypeBg {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}

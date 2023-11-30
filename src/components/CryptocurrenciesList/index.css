@@ -1,0 +1,49 @@
+/* Write your CSS code here */
+
+.title {
+  color: #00e7ff;
+  text-align: center;
+}
+
+.cryptoCurrencyBg {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cryptoImg {
+  width: 90%;
+  height: 35%;
+
+  margin-bottom: 15px;
+}
+
+.listItemBg {
+  border: 1px solid #00e7ff;
+  width: 60%;
+}
+
+.headerBg {
+  background-color: #092e33;
+  border: none;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.currencyBg {
+  display: flex;
+  width: 20%;
+  justify-content: space-between;
+}
+
+.lisContainer {
+  list-style: none;
+  padding: 0px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
